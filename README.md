@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamabhaytiwari343
-- 👀 I’m interested in Web Development , Problem Solving , Data Structures ,Algorithms
-- 🌱 I’m currently learning Backend Development
-- 💞️ I’m looking to collaborate 
+- 👀 I’m interested in Web Development , Problem Solving , Data Structures ,Algorithms,Python Programming ,Machine Learning ,Data analytics,Data Science
+- 🌱 I’m currently learning Backend Development, python development, Machine learning and data Science libraries in python
+- 💞️ I’m looking to contribute and collaborate in the near future to solve real world problems using my programming knowledge and learn from my mistakes. 
 - 📫 you can reach me at iamabhaytiwari343@gmail.com
 
 <!---
